@@ -46,6 +46,7 @@ SSH: laptop --> jump@62.3.175.206 --> ubuntu@192.168.0.x
 | Entry VM backup owner                | Wesley Middelbos (CERN) |
 | Entry VM admin                       | Svein H.                |
 | Entry VM admin                       | Laurens Tobias (DANS)   |
+| Entry VM admin                       | Jens Weiser             |
 | Service VM, hostname and site file   | The service team        |
 | `eden-fidelis.eu` domain             | Trust-IT, see [project-domain.md](project-domain.md) |
 
