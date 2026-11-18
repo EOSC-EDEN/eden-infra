@@ -34,9 +34,10 @@ SSH: laptop --> jump@62.3.175.206 --> ubuntu@192.168.0.x
 | Certificate e-mail   | mattias.levlin@csc.fi      |
 | OpenStack dashboard  | https://eu-1.iaas.open-science-cloud.ec.europa.eu/ |
 
-| Service | VM     | Private IP      | Port | Hostname                   |
-| ------- | ------ | --------------- | ---- | -------------------------- |
-| FFIS    | `ffis` | `192.168.0.203` | 8000 | `eden-ffis.vm.fedcloud.eu` |
+| Service   | VM          | Private IP      | Port | Hostname                        |
+| --------- | ----------- | --------------- | ---- | ------------------------------- |
+| FFIS      | `ffis`      | `192.168.0.203` | 8000 | `eden-ffis.vm.fedcloud.eu`      |
+| Harvester | `harvester` | `192.168.0.81`  | 8000 | `eden-harvester.vm.fedcloud.eu` |
 
 ## People
 
