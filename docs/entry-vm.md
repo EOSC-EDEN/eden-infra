@@ -38,6 +38,7 @@ SSH: laptop --> jump@62.3.175.206 --> ubuntu@192.168.0.x
 | --------- | ----------- | --------------- | ---- | ------------------------------- |
 | FFIS      | `ffis`      | `192.168.0.203` | 8000 | `eden-ffis.vm.fedcloud.eu`      |
 | Harvester | `harvester` | `192.168.0.81`  | 8000 | `eden-harvester.vm.fedcloud.eu` |
+| MES       | `mes`      | `192.168.0.103` | 8000 | `eden-mes.vm.fedcloud.eu`      |
 
 ## People
 
